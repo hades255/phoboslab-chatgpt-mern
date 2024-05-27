@@ -27,14 +27,13 @@ main-folder
 
 ## Screenshots
 
-![chat2](https://github.com/saifiimuhammad/GPT-Web-Integration/assets/99310347/aadeabcc-5d6f-4fd4-a556-313f818055f7)
-![chat1](https://github.com/saifiimuhammad/GPT-Web-Integration/assets/99310347/1c6319e2-8b7a-47d4-91e8-fd7dbffdfc9e)
+![img](ss.png)
 
 ## How to Use
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/MuhammadSaif/GPT-Web-Integration.git
+    git clone https://github.com/hades255/phoboslab-chatgpt-mern.git
     ```
 
 2. **Install Dependencies**: 
@@ -58,13 +57,18 @@ main-folder
 4. **You're All Set!**: 
     - You can now access the web application and interact with the GPT model.
 
-## Author
-
-- **Muhammad Saif**
-- **Email**: muhammadsaifarain786@gmail.com
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+__Developed by__
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗███████╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████║███████║██║  ██║███████╗███████╗
+██╔══██║██╔══██║██║  ██║██╔════╝╚════██║
+██║  ██║██║  ██║██████╔╝███████╗███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝ 
+```
